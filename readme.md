@@ -22,5 +22,3 @@ A simple console-based Task Manager built with Java that uses a **Priority Queue
 
 ---
 
-## 🗂️ Project Structure
-
